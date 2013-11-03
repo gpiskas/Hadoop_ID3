@@ -15,4 +15,4 @@ When the project is set up, press run and the results (precision, recall, f-meas
 [2] http://archive.ics.uci.edu/ml/datasets/Wine+Quality <br>
 [3] http://apache.tsl.gr/hadoop/common/hadoop-1.2.1
 
-Hadoop ID3 <br> Copyright (C) 2013 George Piskas, George Economides
+Hadoop ID3 <br> Copyright (C) 2013 George Piskas, George Economides 
